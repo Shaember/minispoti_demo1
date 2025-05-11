@@ -1,0 +1,41 @@
+{
+  "playlists": {
+    "Избранное": [
+      {
+        "id": null,
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "duration": 235
+      },
+      {
+        "id": null,
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "Pop",
+        "duration": 200
+      },
+      {
+        "id": null,
+        "title": "Dance Monkey",
+        "artist": "Tones and I",
+        "genre": "Pop",
+        "duration": 210
+      },
+      {
+        "id": null,
+        "title": "Someone You Loved",
+        "artist": "Lewis Capaldi",
+        "genre": "Pop",
+        "duration": 182
+      },
+      {
+        "id": null,
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "genre": "Pop",
+        "duration": 194
+      }
+    ]
+  }
+}
